@@ -21,7 +21,7 @@ I enjoy working with web programming, especially js technologies and especially 
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifpehlivan&show_icons=true)  
+
 
 
 
