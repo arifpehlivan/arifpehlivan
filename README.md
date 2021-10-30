@@ -1,7 +1,7 @@
 
 ### Arif Pehlivan
 #### I am Computer Engineering and Full Stack Developer
-I enjoy working with web programming, especially js technologies and especially nodejs.
+
 
 
 ### Tech I Use
