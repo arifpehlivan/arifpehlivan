@@ -4,7 +4,11 @@
 I enjoy working with web programming, especially js technologies and especially nodejs.
 
 
-Skills: NODEJS / VUE JS / REACT / JS / HTML / CSS / C / C++ / PYTHON
+Skills: 
+* <img src="
+* NODEJS
+* / VUE JS / REACT / JS / HTML / CSS / C / C++ / PYTHON
+  <i class="fab fa-node"></i>
 
 
 
