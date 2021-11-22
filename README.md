@@ -2,7 +2,9 @@
 ### Arif Pehlivan
 #### I am Computer Engineer and Full Stack Developer
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arif-pehlivan-1a96a41b9/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>(https://stackoverflow.com/users/17280997/arif-pehlivan)]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arif-pehlivan-1a96a41b9/) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>(https://stackoverflow.com/users/17280997/arif-pehlivan)]
 
 
 ### Tech I Use
