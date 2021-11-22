@@ -1,6 +1,6 @@
 
 ### Arif Pehlivan
-#### I am Computer Engineering and Full Stack Developer
+#### I am Computer Engineer and Full Stack Developer
 
 
 
